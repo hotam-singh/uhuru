@@ -1,0 +1,23 @@
+error: [ 2019-12-23 16:16:43 ] [ hoholyydj ] domain master error:  Error: listen EADDRINUSE :::7000
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:121:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at Object.connect (/home/hotam/project/uhuru/db/connection.js:22:5)
+    at async.auto.db (/home/hotam/project/uhuru/app.js:45:16)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:72:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)

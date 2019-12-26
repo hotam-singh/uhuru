@@ -1,0 +1,159 @@
+error: [ 2019-12-16 15:23:22 ] [ efhyvgu ] domain master error: Error: Cannot find module 'mongoose'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/hotam/hotam/projects/mean/walnut/server/db/index.js:1:80)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+error: [ 2019-12-16 15:23:32 ] [ cqwzebzhj ] domain master error: Error: Cannot find module 'mongoose'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/hotam/hotam/projects/mean/walnut/server/db/index.js:1:80)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+error: [ 2019-12-16 15:25:00 ] [ emgihyypv ] domain master error: TypeError: db.connect is not a function
+    at async.auto.db (/home/hotam/hotam/projects/mean/walnut/server/app.js:44:16)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/hotam/projects/mean/walnut/server/app.js:64:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at logger (/home/hotam/hotam/projects/mean/walnut/server/app.js:40:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+error: [ 2019-12-16 15:26:03 ] [ mpwifdahgk ] domain master error: TypeError: db.connect is not a function
+    at async.auto.db (/home/hotam/hotam/projects/mean/walnut/server/app.js:44:16)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/hotam/projects/mean/walnut/server/app.js:64:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at logger (/home/hotam/hotam/projects/mean/walnut/server/app.js:40:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+error: [ 2019-12-16 15:27:57 ] [ smebfbkbmn ] domain master error: TypeError: db.connect is not a function
+    at async.auto.db (/home/hotam/hotam/projects/mean/walnut/server/app.js:44:16)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/hotam/projects/mean/walnut/server/app.js:64:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at logger (/home/hotam/hotam/projects/mean/walnut/server/app.js:40:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+error: [ 2019-12-16 15:28:20 ] [ ubvkelj ] domain master error: TypeError: db.connect is not a function
+    at async.auto.db (/home/hotam/hotam/projects/mean/walnut/server/app.js:44:16)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/hotam/projects/mean/walnut/server/app.js:64:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at logger (/home/hotam/hotam/projects/mean/walnut/server/app.js:40:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1634:13)
+info: [ 2019-12-16 15:29:34 ] [ qazzkqe ] server running on http://localhost:7000
+info: [ 2019-12-16 15:31:40 ] [ atud ] server running on http://localhost:7000
+error: [ 2019-12-16 15:31:40 ] [ issjhbnl ] database connection error: failed to connect to server [undefined:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND undefined undefined:27017]
+info: [ 2019-12-16 15:34:09 ] [ jwmmqrq ] server running on http://localhost:7000
+error: [ 2019-12-16 15:34:09 ] [ lxqmowipp ] database connection error: failed to connect to server [undefined:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND undefined undefined:27017]
+info: [ 2019-12-16 15:41:40 ] [ eavisrdkkc ] server running on http://localhost:7000
+info: [ 2019-12-16 15:41:40 ] [ fkfkobqm ] database connected successfully
+info: [ 2019-12-16 15:50:15 ] [ ekkwpit ] server running on http://localhost:7000
+error: [ 2019-12-16 15:50:15 ] [ bdcoddp ] database error: + failed to connect to server [undefined:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND undefined undefined:27017]
+info: [ 2019-12-16 15:52:05 ] [ jacvdpe ] server running on http://localhost:7000
+info: [ 2019-12-16 15:54:28 ] [ jzrtftvekm ] server running on http://localhost:7000
+info: [ 2019-12-16 15:54:29 ] [ hofvab ] database ${dbName} connected successfully
+info: [ 2019-12-16 15:55:07 ] [ gpsprfgtws ] server running on http://localhost:7000
+info: [ 2019-12-16 15:55:07 ] [ ldzbxw ] database ${dbName} connected successfully
+info: [ 2019-12-16 15:55:44 ] [ ywsrznjr ] server running on http://localhost:7000
+info: [ 2019-12-16 15:55:44 ] [ bjiouq ] database walnut connected successfully
+info: [ 2019-12-16 15:56:43 ] [ xsmsuval ] server running on http://localhost:7000
+info: [ 2019-12-16 15:56:43 ] [ npwqxyt ] database walnut connected successfully
+error: [ 2019-12-16 16:32:25 ] [ fkyln ] domain master error: Error: listen EADDRINUSE :::7000
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/hotam/projects/mean/walnut/server/app.js:67:34)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/hotam/projects/mean/walnut/server/app.js:56:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+info: [ 2019-12-16 16:32:25 ] [ chiajal ] database walnut connected successfully
+info: [ 2019-12-16 16:32:39 ] [ jaxzklyra ] server running on http://localhost:7000
+info: [ 2019-12-16 16:32:39 ] [ wteolijhqoh ] database walnut connected successfully
+error: [ 2019-12-16 17:40:54 ] [ xiwacbt ] domain master error: Error: listen EADDRINUSE :::7000
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/hotam/projects/mean/walnut/server/app.js:79:34)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/hotam/projects/mean/walnut/server/app.js:56:13)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+info: [ 2019-12-16 17:40:54 ] [ vffgofz ] database walnut connected successfully
+debug: [ 2019-12-16 17:56:27 ] [ dzwzd ] Loading module ${moduleName}
+info: [ 2019-12-16 17:56:33 ] [ lmlvsqrr ] server running on http://${config.app.address}:${config.app.port}
+debug: [ 2019-12-16 18:04:39 ] [ vudfc ] Loading module test
+info: [ 2019-12-16 18:04:39 ] [ qdqitq ] server running on http://${config.app.address}:${config.app.port}
+debug: [ 2019-12-16 18:04:55 ] [ vyltcu ] Loading module test
+info: [ 2019-12-16 18:04:55 ] [ xtxwzotetl ] server running on http://${config.app.address}:${config.app.port}
+info: [ 2019-12-16 18:05:00 ] [ cphvbwies ] database ${db.name} connected successfully
+debug: [ 2019-12-16 18:10:37 ] [ bvizkrvikss ] Loading module ${moduleName}
+info: [ 2019-12-16 18:10:37 ] [ zhrvtnnl ] server running on http://${config.app.address}:${config.app.port}
+info: [ 2019-12-16 18:10:42 ] [ xjdxtgkr ] database walnut connected successfully
+debug: [ 2019-12-16 18:27:17 ] [ zxkkxhemboa ] Loading module users
+info: [ 2019-12-16 18:27:17 ] [ uxiuaphdn ] server running on http://127.0.0.1:7000
+info: [ 2019-12-16 18:27:17 ] [ vrldzlnf ] database walnut connected successfully

@@ -1,0 +1,364 @@
+error: [ 2019-12-19 12:52:48 ] [ nukjtlclck ] domain master error:  ReferenceError: scope is not defined
+    at async.auto.modules (/home/hotam/project/uhuru/app.js:67:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:56:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/project/uhuru/app.js:64:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1634:13)
+error: [ 2019-12-19 12:53:18 ] [ smknarkqr ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:06:46 ] [ killfwxrek ] Loading module
+error: [ 2019-12-19 13:06:46 ] [ aplxsoha ] Domain userspath must be a string
+error: [ 2019-12-19 13:07:16 ] [ dcvxybx ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:07:21 ] [ aspnv ] Loading module
+error: [ 2019-12-19 13:07:47 ] [ zzeougcw ] Domain userspath must be a string
+error: [ 2019-12-19 13:07:51 ] [ mcklvxdvjo ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:09:28 ] [ dzmtgtv ] Loading module
+error: [ 2019-12-19 13:09:29 ] [ fteqxlogay ] Domain usersCannot set property 'shared' of undefined
+error: [ 2019-12-19 13:09:58 ] [ rmgvxrhbe ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:11:01 ] [ zeevdzgb ] Loading module
+error: [ 2019-12-19 13:11:04 ] [ nadmpkmie ] Domain usersCannot set property 'shared' of undefined
+error: [ 2019-12-19 13:11:31 ] [ iezrd ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:14:03 ] [ cayqisn ] Loading module
+error: [ 2019-12-19 13:14:06 ] [ bmuxugos ] Domain usersCannot set property 'shared' of undefined
+error: [ 2019-12-19 13:14:33 ] [ cdjrhofrf ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:20:22 ] [ mztyrd ] Loading module
+error: [ 2019-12-19 13:20:24 ] [ tgcwviqg ] Domain usersCannot set property 'shared' of undefined
+debug: [ 2019-12-19 13:20:54 ] [ rehcwkvbz ] Loading module
+error: [ 2019-12-19 13:21:00 ] [ mhygchzq ] Domain usersmodules is not defined
+error: [ 2019-12-19 13:21:24 ] [ pdlzov ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:22:14 ] [ mlaxo ] Loading module
+info: [ 2019-12-19 13:22:20 ] [ oznkrw ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:22:20 ] [ vtljpmfhx ] Loading API endpoint users
+error: [ 2019-12-19 13:22:20 ] [ jeupopxa ] Domain userserror is not defined
+error: [ 2019-12-19 13:22:44 ] [ yyjicw ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:23:34 ] [ kwczodxm ] Loading module
+debug: [ 2019-12-19 13:24:37 ] [ twwrplee ] Loading module
+info: [ 2019-12-19 13:24:37 ] [ sjlqnaffd ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:24:37 ] [ ffiiocko ] Loading API endpoint users
+error: [ 2019-12-19 13:24:40 ] [ jfifmprp ] Unable to load API endpoint for users of http Error: Cannot find module '../../helpers/httpApi'
+debug: [ 2019-12-19 13:24:53 ] [ hpupnuaas ] Loading module
+info: [ 2019-12-19 13:24:53 ] [ qeeuoaulq ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:24:53 ] [ xmjxytgqf ] Loading API endpoint users
+error: [ 2019-12-19 13:24:53 ] [ tixzdqur ] Unable to load API endpoint for users of http Error: Cannot find module '../../helpers/httpApi'
+error: [ 2019-12-19 13:25:23 ] [ plgjgof ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:25:46 ] [ auifuwsfp ] Loading module
+info: [ 2019-12-19 13:25:46 ] [ bxbzolc ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:25:46 ] [ vdcdentikqp ] Loading API endpoint users
+error: [ 2019-12-19 13:25:46 ] [ fmswqnchwt ] Unable to load API endpoint for users of http TypeError: router.map is not a function
+error: [ 2019-12-19 13:26:16 ] [ icblmjx ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:26:19 ] [ wtaoivez ] Loading module
+info: [ 2019-12-19 13:26:19 ] [ fycopetn ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:26:19 ] [ qyyyvssfs ] Loading API endpoint users
+error: [ 2019-12-19 13:26:19 ] [ aqvvivusb ] Unable to load API endpoint for users of http TypeError: router.map is not a function
+error: [ 2019-12-19 13:26:49 ] [ qsuxbaoy ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:27:11 ] [ aptiqxdfy ] Loading module
+info: [ 2019-12-19 13:27:11 ] [ mkgsjsx ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:27:11 ] [ aojuwkuab ] Loading API endpoint users
+error: [ 2019-12-19 13:27:11 ] [ hdztjnvk ] Unable to load API endpoint for users of http TypeError: httpApi.registerEndpoint is not a function
+debug: [ 2019-12-19 13:27:36 ] [ uoxydsvi ] Loading module
+error: [ 2019-12-19 13:27:41 ] [ orybusqws ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:28:14 ] [ ewiiqcseb ] Loading module
+debug: [ 2019-12-19 13:28:42 ] [ doqjtvbhq ] Loading module
+debug: [ 2019-12-19 13:29:31 ] [ miciion ] Loading module
+debug: [ 2019-12-19 13:30:27 ] [ ybirxblycn ] Loading module
+error: [ 2019-12-19 13:30:27 ] [ ynipxcgdkoh ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+debug: [ 2019-12-19 13:30:27 ] [ ksvrqecbrh ] Loading API endpoint users
+error: [ 2019-12-19 13:30:30 ] [ gzsvagodg ] Unable to load API endpoint for users of http TypeError: httpApi.registerEndpoint is not a function
+debug: [ 2019-12-19 13:30:40 ] [ kdckctkbd ] Loading module
+debug: [ 2019-12-19 13:31:01 ] [ ndstjhe ] Loading module
+debug: [ 2019-12-19 13:31:52 ] [ ntsnlhsp ] Loading module
+info: [ 2019-12-19 13:31:52 ] [ oxtwgug ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:31:52 ] [ yzbvzojpc ] Loading API endpoint users
+error: [ 2019-12-19 13:32:22 ] [ kxqybjqk ] database error: Server selection timed out after 30000 ms
+debug: [ 2019-12-19 13:51:43 ] [ uwkxyeq ] Loading module
+info: [ 2019-12-19 13:51:43 ] [ slrfjxck ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 13:51:43 ] [ oavg ] Loading API endpoint users
+debug: [ 2019-12-19 14:55:33 ] [ vmvypg ] Loading module
+info: [ 2019-12-19 14:55:33 ] [ eoshsas ] server running on http://127.0.0.1:8003
+debug: [ 2019-12-19 14:55:33 ] [ eqyhhjzs ] Loading API endpoint users
+error: [ 2019-12-19 14:55:33 ] [ cugmoac ] Unable to load API endpoint for users of http Error: Cannot find module '../utils.js'
+debug: [ 2019-12-19 15:02:09 ] [ tnfntufm ] Loading module
+info: [ 2019-12-19 15:02:09 ] [ weqchvc ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:02:09 ] [ alatmj ] Loading API endpoint users
+error: [ 2019-12-19 15:02:09 ] [ xstwora ] Unable to load API endpoint for users of http TypeError: Cannot read property 'cors' of undefined
+debug: [ 2019-12-19 15:02:47 ] [ enwjrxqf ] Loading module
+debug: [ 2019-12-19 15:06:08 ] [ fxaifjgen ] Loading module
+debug: [ 2019-12-19 15:06:44 ] [ eiqvwsforb ] Loading module
+info: [ 2019-12-19 15:06:44 ] [ zjezcikwza ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:06:44 ] [ ogxbfhir ] Loading API endpoint users
+debug: [ 2019-12-19 15:06:56 ] [ ajpckbo ] Loading module
+info: [ 2019-12-19 15:06:56 ] [ woprdhm ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:06:56 ] [ blxtjnb ] Loading API endpoint users
+debug: [ 2019-12-19 15:08:24 ] [ kcirwph ] Loading module
+debug: [ 2019-12-19 15:11:57 ] [ rddwchgt ] Loading module
+error: [ 2019-12-19 15:11:57 ] [ pmuacvkh ] domain master error:  Error: listen EADDRINUSE :::7000
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at Object.connect (/home/hotam/project/uhuru/db/connection.js:22:5)
+    at async.auto.db (/home/hotam/project/uhuru/app.js:45:16)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+debug: [ 2019-12-19 15:11:57 ] [ pqevwpyjh ] Loading API endpoint users
+debug: [ 2019-12-19 15:12:01 ] [ kxkgdojyvaq ] Loading module
+info: [ 2019-12-19 15:12:01 ] [ nzlzaczrkh ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:12:01 ] [ kwaoeoc ] Loading API endpoint users
+debug: [ 2019-12-19 15:12:58 ] [ buwzwjktrm ] Loading module
+info: [ 2019-12-19 15:12:58 ] [ tyuyqixg ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:12:58 ] [ umqsfmglrff ] Loading API endpoint users
+debug: [ 2019-12-19 15:14:26 ] [ oqdmk ] Loading module
+info: [ 2019-12-19 15:14:26 ] [ algijwbm ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:14:26 ] [ tgnucqh ] Loading API endpoint users
+debug: [ 2019-12-19 15:18:02 ] [ qhpprxi ] Loading module
+info: [ 2019-12-19 15:18:02 ] [ qujuroh ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:18:02 ] [ palafpgwnv ] Loading API endpoint users
+debug: [ 2019-12-19 15:18:07 ] [ uxpklepc ] sendPayment API initialized
+debug: [ 2019-12-19 15:20:07 ] [ oadvpgzvo ] sendPayment API initialized
+debug: [ 2019-12-19 15:22:08 ] [ ooaasnki ] sendPayment API initialized
+debug: [ 2019-12-19 15:24:08 ] [ tmddrg ] sendPayment API initialized
+debug: [ 2019-12-19 15:25:35 ] [ znkgizgkd ] Loading module
+info: [ 2019-12-19 15:25:35 ] [ uxrtscpuc ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:25:35 ] [ vjrymyzyh ] Loading API endpoint users
+debug: [ 2019-12-19 15:36:03 ] [ vfagcek ] Loading module
+info: [ 2019-12-19 15:36:03 ] [ mxuopv ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:36:03 ] [ kjgrhgwsle ] Loading API endpoint users
+debug: [ 2019-12-19 15:36:11 ] [ uaxrmty ] Loading module
+info: [ 2019-12-19 15:36:11 ] [ qefurpb ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:36:11 ] [ haqfiqw ] Loading API endpoint users
+debug: [ 2019-12-19 15:37:23 ] [ oxtrwanjl ] Loading module
+info: [ 2019-12-19 15:37:23 ] [ ktbdfht ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:37:23 ] [ wravbu ] Loading API endpoint users
+debug: [ 2019-12-19 15:37:29 ] [ bxvasudr ] Loading module
+info: [ 2019-12-19 15:37:29 ] [ uyea ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:37:29 ] [ zftubr ] Loading API endpoint users
+debug: [ 2019-12-19 15:38:19 ] [ ljpyfekv ] Loading module
+debug: [ 2019-12-19 15:38:19 ] [ dxlgqpsofo ] Loading module
+info: [ 2019-12-19 15:38:19 ] [ gmshhir ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:38:19 ] [ frwgzwq ] Loading API endpoint users
+debug: [ 2019-12-19 15:38:19 ] [ lvivtqzvs ] Loading API endpoint payments
+debug: [ 2019-12-19 15:38:29 ] [ lkbutd ] sendPayment API initialized
+error: [ 2019-12-19 15:38:29 ] [ oncruumfn ] Invalid Body parameters
+debug: [ 2019-12-19 15:38:53 ] [ vyofcy ] sendPayment API initialized
+error: [ 2019-12-19 15:40:07 ] [ qmmhnho ] Invalid Body parameters
+debug: [ 2019-12-19 15:40:07 ] [ guuugyvx ] sendPayment API initialized
+error: [ 2019-12-19 15:40:09 ] [ emcrntn ] Invalid Body parameters
+debug: [ 2019-12-19 15:41:00 ] [ ftpjybmmi ] Loading module
+debug: [ 2019-12-19 15:41:00 ] [ jsmvansy ] Loading module
+info: [ 2019-12-19 15:41:00 ] [ jvzsuyvg ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:41:00 ] [ ouu ] Loading API endpoint users
+debug: [ 2019-12-19 15:41:00 ] [ hcwnoty ] Loading API endpoint payments
+debug: [ 2019-12-19 15:42:25 ] [ umlhe ] sendPayment API initialized
+error: [ 2019-12-19 15:42:34 ] [ bigekmys ] Invalid Body parameters
+debug: [ 2019-12-19 15:43:30 ] [ karutxich ] Loading module
+debug: [ 2019-12-19 15:43:30 ] [ twmywkkqwyj ] Loading module
+info: [ 2019-12-19 15:43:30 ] [ spam ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:43:30 ] [ odeigubq ] Loading API endpoint users
+debug: [ 2019-12-19 15:43:30 ] [ rkvrkd ] Loading API endpoint payments
+debug: [ 2019-12-19 15:45:41 ] [ zgjqvyzuv ] Loading module
+debug: [ 2019-12-19 15:45:41 ] [ hmrquyclg ] Loading module
+info: [ 2019-12-19 15:45:41 ] [ lxsiawjix ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 15:45:41 ] [ smjyxsuous ] Loading API endpoint users
+debug: [ 2019-12-19 15:45:41 ] [ fewzocljl ] Loading API endpoint payments
+debug: [ 2019-12-19 15:46:05 ] [ iejblrfkk ] sendPayment API initialized
+error: [ 2019-12-19 15:46:07 ] [ iudafjv ] Invalid Body parameters
+error: [ 2019-12-19 16:06:17 ] [ uzxyaqyzo ] domain master error:  Error: Cannot find module 'method-override'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at async.auto.network (/home/hotam/project/uhuru/app.js:54:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 16:07:22 ] [ cbmpdzcrn ] domain master error:  Error: Cannot find module 'method-override'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at async.auto.network (/home/hotam/project/uhuru/app.js:54:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 16:07:44 ] [ qdrjljgr ] domain master error:  Error: Cannot find module 'method-override'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at async.auto.network (/home/hotam/project/uhuru/app.js:54:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 16:08:19 ] [ tqwjqqv ] domain master error:  TypeError: Cannot read property 'express' of undefined
+    at async.auto.network (/home/hotam/project/uhuru/app.js:60:26)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/project/uhuru/app.js:80:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1634:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+debug: [ 2019-12-19 16:08:46 ] [ grneggup ] Loading module
+debug: [ 2019-12-19 16:08:46 ] [ malhaug ] Loading module
+info: [ 2019-12-19 16:08:46 ] [ rlnbym ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:08:46 ] [ dxkrarg ] Loading API endpoint users
+debug: [ 2019-12-19 16:08:46 ] [ ubgjnlk ] Loading API endpoint payments
+debug: [ 2019-12-19 16:09:16 ] [ mxbshqdv ] Loading module
+debug: [ 2019-12-19 16:09:17 ] [ aqmmfffg ] Loading module
+info: [ 2019-12-19 16:09:17 ] [ xteqdpeiay ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:09:17 ] [ qflgnwiwg ] Loading API endpoint users
+debug: [ 2019-12-19 16:09:17 ] [ sdxdhic ] Loading API endpoint payments
+debug: [ 2019-12-19 16:09:34 ] [ jhykamj ] sendPayment API initialized
+debug: [ 2019-12-19 16:12:03 ] [ rzcngyw ] Loading module
+debug: [ 2019-12-19 16:12:03 ] [ slywdrxmfq ] Loading module
+info: [ 2019-12-19 16:12:03 ] [ mmqvxlcdylf ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:12:03 ] [ yiyhentd ] Loading API endpoint users
+debug: [ 2019-12-19 16:12:03 ] [ ytiiaukx ] Loading API endpoint payments
+debug: [ 2019-12-19 16:13:38 ] [ vyflevkxxn ] Loading module
+debug: [ 2019-12-19 16:13:38 ] [ vtrlejb ] Loading module
+info: [ 2019-12-19 16:13:38 ] [ gajuehgdi ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:13:38 ] [ ekgwgspiiw ] Loading API endpoint users
+debug: [ 2019-12-19 16:13:38 ] [ hvfukylb ] Loading API endpoint payments
+debug: [ 2019-12-19 16:15:26 ] [ gsfqnzyft ] sendPayment API initialized
+debug: [ 2019-12-19 16:40:24 ] [ rolfdsxuqv ] Loading module
+debug: [ 2019-12-19 16:40:24 ] [ wsndpata ] Loading module
+info: [ 2019-12-19 16:40:24 ] [ dpgudxif ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:40:24 ] [ wkymwjmn ] Loading API endpoint users
+debug: [ 2019-12-19 16:40:24 ] [ jxtsh ] Loading API endpoint payments
+debug: [ 2019-12-19 16:40:44 ] [ ycnabokd ] sendPayment API initialized
+debug: [ 2019-12-19 16:44:14 ] [ ogcyqpuv ] Loading module
+debug: [ 2019-12-19 16:44:14 ] [ polyzkaxd ] Loading module
+info: [ 2019-12-19 16:44:14 ] [ mjpmvh ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:44:14 ] [ kzowbmxe ] Loading API endpoint users
+debug: [ 2019-12-19 16:44:14 ] [ ivddwaie ] Loading API endpoint payments
+debug: [ 2019-12-19 16:44:26 ] [ repezrkhz ] sendPayment API initialized
+debug: [ 2019-12-19 16:47:25 ] [ ngncts ] Loading module
+debug: [ 2019-12-19 16:47:25 ] [ rtmcnokngrq ] Loading module
+info: [ 2019-12-19 16:47:26 ] [ hmgqyebp ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:47:26 ] [ kpzamoyb ] Loading API endpoint users
+debug: [ 2019-12-19 16:47:26 ] [ oxgwbsgwl ] Loading API endpoint payments
+debug: [ 2019-12-19 16:47:29 ] [ shrvftzan ] sendPayment API initialized
+error: [ 2019-12-19 16:47:32 ] [ zwaic ] ERROR!null
+debug: [ 2019-12-19 16:49:38 ] [ rpoqnwa ] Loading module
+debug: [ 2019-12-19 16:49:38 ] [ pzisawak ] Loading module
+info: [ 2019-12-19 16:49:38 ] [ hokdsfvnd ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:49:38 ] [ jeopfp ] Loading API endpoint users
+debug: [ 2019-12-19 16:49:38 ] [ ieobxrnn ] Loading API endpoint payments
+debug: [ 2019-12-19 16:49:49 ] [ cnqcofcmka ] sendPayment API initialized
+debug: [ 2019-12-19 16:50:42 ] [ fdsvocnj ] sendPayment API initialized
+debug: [ 2019-12-19 16:52:03 ] [ zdpvtctnv ] Loading module
+debug: [ 2019-12-19 16:52:03 ] [ zcgabuxpq ] Loading module
+info: [ 2019-12-19 16:52:03 ] [ lqxunvn ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:52:03 ] [ peuromdy ] Loading API endpoint users
+debug: [ 2019-12-19 16:52:03 ] [ utaxqxhd ] Loading API endpoint payments
+debug: [ 2019-12-19 16:52:07 ] [ gbjotl ] sendPayment API initialized
+debug: [ 2019-12-19 16:52:39 ] [ wbyvnjzegm ] Loading module
+debug: [ 2019-12-19 16:52:39 ] [ sppzzkg ] Loading module
+info: [ 2019-12-19 16:52:40 ] [ udtbvfl ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:52:40 ] [ hyhroegl ] Loading API endpoint users
+debug: [ 2019-12-19 16:52:40 ] [ dqtftdo ] Loading API endpoint payments
+debug: [ 2019-12-19 16:52:45 ] [ ypznsbemxs ] sendPayment API initialized
+debug: [ 2019-12-19 16:53:06 ] [ fxvqz ] Loading module
+debug: [ 2019-12-19 16:53:06 ] [ auivkww ] Loading module
+info: [ 2019-12-19 16:53:06 ] [ ydhaejam ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:53:06 ] [ btktnbr ] Loading API endpoint users
+debug: [ 2019-12-19 16:53:06 ] [ haikdov ] Loading API endpoint payments
+debug: [ 2019-12-19 16:53:11 ] [ ygzvmtzcl ] sendPayment API initialized
+debug: [ 2019-12-19 16:56:25 ] [ brxdfran ] Loading module
+debug: [ 2019-12-19 16:56:25 ] [ tsnicfmkd ] Loading module
+info: [ 2019-12-19 16:56:25 ] [ vzmcstlb ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:56:25 ] [ pjhlvtyc ] Loading API endpoint users
+debug: [ 2019-12-19 16:56:25 ] [ xjcrfbq ] Loading API endpoint payments
+debug: [ 2019-12-19 16:56:27 ] [ bfbphopj ] sendPayment API initialized
+debug: [ 2019-12-19 16:57:57 ] [ egmxts ] sendPayment API initialized
+debug: [ 2019-12-19 16:59:22 ] [ qmgbjcql ] Loading module
+debug: [ 2019-12-19 16:59:22 ] [ abarlbcu ] Loading module
+info: [ 2019-12-19 16:59:22 ] [ ifzjazqg ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 16:59:22 ] [ pinolri ] Loading API endpoint users
+debug: [ 2019-12-19 16:59:22 ] [ shfoti ] Loading API endpoint payments
+debug: [ 2019-12-19 16:59:25 ] [ enkzyk ] sendPayment API initialized
+debug: [ 2019-12-19 16:59:57 ] [ ovysdqac ] sendPayment API initialized
+debug: [ 2019-12-19 17:05:10 ] [ xnsvttzk ] Loading module
+debug: [ 2019-12-19 17:05:10 ] [ gsfexg ] Loading module
+info: [ 2019-12-19 17:05:11 ] [ llssiptuuj ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 17:05:11 ] [ xdeuogdd ] Loading API endpoint users
+debug: [ 2019-12-19 17:05:11 ] [ ddllzmvko ] Loading API endpoint payments
+debug: [ 2019-12-19 17:05:13 ] [ fzsnpntb ] sendPayment API initialized
+debug: [ 2019-12-19 17:23:53 ] [ jkbwkoom ] sendPayment API initialized
+debug: [ 2019-12-19 17:26:17 ] [ qhwzrtx ] sendPayment API initialized
+debug: [ 2019-12-19 17:39:43 ] [ ojthvonh ] Loading module
+debug: [ 2019-12-19 17:39:43 ] [ ynjhxgq ] Loading module
+error: [ 2019-12-19 17:39:44 ] [ uvrlwaeqfa ] Domain paymentsCannot find module 'stellar-sdk'
+debug: [ 2019-12-19 17:40:22 ] [ ifccxaqt ] Loading module
+debug: [ 2019-12-19 17:40:22 ] [ zqgtycfnvp ] Loading module
+info: [ 2019-12-19 17:40:24 ] [ hmgjyl ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 17:40:24 ] [ rzvocv ] Loading API endpoint users
+debug: [ 2019-12-19 17:40:24 ] [ btpapdcac ] Loading API endpoint payments
+debug: [ 2019-12-19 17:40:26 ] [ jbxsgrh ] sendPayment API initialized
+debug: [ 2019-12-19 17:42:43 ] [ qjpec ] Loading module
+debug: [ 2019-12-19 17:42:43 ] [ hoivjnc ] Loading module
+info: [ 2019-12-19 17:42:44 ] [ ymdbgzys ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 17:42:44 ] [ cytgufb ] Loading API endpoint users
+debug: [ 2019-12-19 17:42:44 ] [ qxipjjvxze ] Loading API endpoint payments
+debug: [ 2019-12-19 17:42:54 ] [ vsqhmxzbhe ] sendPayment API initialized
+debug: [ 2019-12-19 18:09:42 ] [ fvmtxlhmjq ] Loading module
+debug: [ 2019-12-19 18:09:42 ] [ jttcxjsvkk ] Loading module
+info: [ 2019-12-19 18:09:45 ] [ wotdwuqiarh ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 18:09:45 ] [ mcgosspoe ] Loading API endpoint users
+debug: [ 2019-12-19 18:09:45 ] [ sohzbsdk ] Loading API endpoint payments
+debug: [ 2019-12-19 18:09:50 ] [ ikmthhs ] sendPayment API initialized
+debug: [ 2019-12-19 18:10:50 ] [ qmplanzk ] sendPayment API initialized
+debug: [ 2019-12-19 18:11:58 ] [ ozmnhm ] Loading module
+debug: [ 2019-12-19 18:11:58 ] [ fxkwb ] Loading module
+info: [ 2019-12-19 18:11:59 ] [ ookamw ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 18:11:59 ] [ ehaqbad ] Loading API endpoint users
+debug: [ 2019-12-19 18:11:59 ] [ dbimnnmd ] Loading API endpoint payments
+debug: [ 2019-12-19 18:12:13 ] [ xqzkxfqpjs ] sendPayment API initialized
+debug: [ 2019-12-19 18:30:45 ] [ onlf ] Loading module
+debug: [ 2019-12-19 18:30:45 ] [ flunyjdyfso ] Loading module
+info: [ 2019-12-19 18:30:46 ] [ shaobxvpl ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-19 18:30:46 ] [ egwmswh ] Loading API endpoint users
+debug: [ 2019-12-19 18:30:46 ] [ tpaqykkx ] Loading API endpoint payments
+debug: [ 2019-12-19 18:30:50 ] [ yyhtjkrsvv ] sendPayment API initialized

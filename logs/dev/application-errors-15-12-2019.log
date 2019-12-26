@@ -1,0 +1,11 @@
+error: [ 2019-12-15 23:10:32 ] [ jflhfrpd ] domain master error: Error: listen EADDRINUSE :::7000
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/hotam/projects/mean/walnut/server/app.js:63:34)
+    at runTask (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/hotam/projects/mean/walnut/server/node_modules/async/dist/async.js:969:16

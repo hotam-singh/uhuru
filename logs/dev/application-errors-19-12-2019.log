@@ -1,0 +1,233 @@
+error: [ 2019-12-19 12:52:48 ] [ nukjtlclck ] domain master error:  ReferenceError: scope is not defined
+    at async.auto.modules (/home/hotam/project/uhuru/app.js:67:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:56:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/project/uhuru/app.js:64:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1634:13)
+error: [ 2019-12-19 12:53:18 ] [ smknarkqr ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:06:46 ] [ aplxsoha ] Domain userspath must be a string
+error: [ 2019-12-19 13:07:16 ] [ dcvxybx ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:07:47 ] [ zzeougcw ] Domain userspath must be a string
+error: [ 2019-12-19 13:07:51 ] [ mcklvxdvjo ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:09:29 ] [ fteqxlogay ] Domain usersCannot set property 'shared' of undefined
+error: [ 2019-12-19 13:09:58 ] [ rmgvxrhbe ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:11:04 ] [ nadmpkmie ] Domain usersCannot set property 'shared' of undefined
+error: [ 2019-12-19 13:11:31 ] [ iezrd ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:14:06 ] [ bmuxugos ] Domain usersCannot set property 'shared' of undefined
+error: [ 2019-12-19 13:14:33 ] [ cdjrhofrf ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:20:24 ] [ tgcwviqg ] Domain usersCannot set property 'shared' of undefined
+error: [ 2019-12-19 13:21:00 ] [ mhygchzq ] Domain usersmodules is not defined
+error: [ 2019-12-19 13:21:24 ] [ pdlzov ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:22:20 ] [ jeupopxa ] Domain userserror is not defined
+error: [ 2019-12-19 13:22:44 ] [ yyjicw ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:24:40 ] [ jfifmprp ] Unable to load API endpoint for users of http Error: Cannot find module '../../helpers/httpApi'
+error: [ 2019-12-19 13:24:53 ] [ tixzdqur ] Unable to load API endpoint for users of http Error: Cannot find module '../../helpers/httpApi'
+error: [ 2019-12-19 13:25:23 ] [ plgjgof ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:25:46 ] [ fmswqnchwt ] Unable to load API endpoint for users of http TypeError: router.map is not a function
+error: [ 2019-12-19 13:26:16 ] [ icblmjx ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:26:19 ] [ aqvvivusb ] Unable to load API endpoint for users of http TypeError: router.map is not a function
+error: [ 2019-12-19 13:26:49 ] [ qsuxbaoy ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:27:11 ] [ hdztjnvk ] Unable to load API endpoint for users of http TypeError: httpApi.registerEndpoint is not a function
+error: [ 2019-12-19 13:27:36 ] [ nwjnojxhs ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 13:27:41 ] [ orybusqws ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 13:28:14 ] [ nspembay ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 13:28:42 ] [ lqekcbcaa ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 13:29:31 ] [ donytbb ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 13:30:27 ] [ ynipxcgdkoh ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 13:30:30 ] [ gzsvagodg ] Unable to load API endpoint for users of http TypeError: httpApi.registerEndpoint is not a function
+error: [ 2019-12-19 13:30:40 ] [ csutlxbii ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 13:31:01 ] [ voxuu ] domain master error:  Error: listen EADDRINUSE :::8003
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:57:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 13:32:22 ] [ kxqybjqk ] database error: Server selection timed out after 30000 ms
+error: [ 2019-12-19 14:55:33 ] [ cugmoac ] Unable to load API endpoint for users of http Error: Cannot find module '../utils.js'
+error: [ 2019-12-19 15:02:09 ] [ xstwora ] Unable to load API endpoint for users of http TypeError: Cannot read property 'cors' of undefined
+error: [ 2019-12-19 15:11:57 ] [ pmuacvkh ] domain master error:  Error: listen EADDRINUSE :::7000
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:106:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at Object.connect (/home/hotam/project/uhuru/db/connection.js:22:5)
+    at async.auto.db (/home/hotam/project/uhuru/app.js:45:16)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+error: [ 2019-12-19 15:38:29 ] [ oncruumfn ] Invalid Body parameters
+error: [ 2019-12-19 15:40:07 ] [ qmmhnho ] Invalid Body parameters
+error: [ 2019-12-19 15:40:09 ] [ emcrntn ] Invalid Body parameters
+error: [ 2019-12-19 15:42:34 ] [ bigekmys ] Invalid Body parameters
+error: [ 2019-12-19 15:46:07 ] [ iudafjv ] Invalid Body parameters
+error: [ 2019-12-19 16:06:17 ] [ uzxyaqyzo ] domain master error:  Error: Cannot find module 'method-override'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at async.auto.network (/home/hotam/project/uhuru/app.js:54:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 16:07:22 ] [ cbmpdzcrn ] domain master error:  Error: Cannot find module 'method-override'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at async.auto.network (/home/hotam/project/uhuru/app.js:54:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 16:07:44 ] [ qdrjljgr ] domain master error:  Error: Cannot find module 'method-override'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at async.auto.network (/home/hotam/project/uhuru/app.js:54:25)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+error: [ 2019-12-19 16:08:19 ] [ tqwjqqv ] domain master error:  TypeError: Cannot read property 'express' of undefined
+    at async.auto.network (/home/hotam/project/uhuru/app.js:60:26)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at swagger (/home/hotam/project/uhuru/app.js:80:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1634:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+error: [ 2019-12-19 16:47:32 ] [ zwaic ] ERROR!null
+error: [ 2019-12-19 17:39:44 ] [ uvrlwaeqfa ] Domain paymentsCannot find module 'stellar-sdk'

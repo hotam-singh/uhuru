@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 15
+    },
+    "auditLog": "/home/hotam/project/uhuru/logs/dev/.4cd17294bf1787d540ff6145bebebe2f6a85058c-audit.json",
+    "files": [
+        {
+            "date": 1576740166643,
+            "name": "/home/hotam/project/uhuru/logs/dev/19-12-2019.log",
+            "hash": "ea224e637c73f9141db58a5852656541"
+        },
+        {
+            "date": 1576820649264,
+            "name": "/home/hotam/project/uhuru/logs/dev/20-12-2019.log",
+            "hash": "41b92377b5513f1f4a09b57fabef15dc"
+        },
+        {
+            "date": 1577088127444,
+            "name": "/home/hotam/project/uhuru/logs/dev/23-12-2019.log",
+            "hash": "14c4b7719b658e0307b9612705c44bfb"
+        }
+    ]
+}

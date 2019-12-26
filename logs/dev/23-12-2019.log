@@ -1,0 +1,46 @@
+debug: [ 2019-12-23 13:32:13 ] [ xzmiziectn ] Loading module
+debug: [ 2019-12-23 13:32:13 ] [ nqdsodjucwh ] Loading module
+info: [ 2019-12-23 13:32:18 ] [ nznyevehp ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-23 13:32:18 ] [ btypaklqcc ] Loading API endpoint users
+debug: [ 2019-12-23 13:32:18 ] [ rdcabxfc ] Loading API endpoint payments
+debug: [ 2019-12-23 13:32:20 ] [ qsdwohee ] sendPayment API initialized
+debug: [ 2019-12-23 13:33:01 ] [ ubaonss ] sendPayment API initialized
+debug: [ 2019-12-23 13:34:29 ] [ wvnupfq ] sendPayment API initialized
+debug: [ 2019-12-23 13:34:29 ] [ fvpkkcf ] sendPayment API initialized
+debug: [ 2019-12-23 15:21:35 ] [ mtpqypbke ] Loading module
+debug: [ 2019-12-23 15:21:35 ] [ ugpqjga ] Loading module
+info: [ 2019-12-23 15:21:36 ] [ htbfsmdm ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-23 15:21:36 ] [ itchqewe ] Loading API endpoint users
+debug: [ 2019-12-23 15:21:36 ] [ boxtjskbs ] Loading API endpoint payments
+debug: [ 2019-12-23 15:23:34 ] [ ctkmfuc ] Loading module
+debug: [ 2019-12-23 15:23:34 ] [ lzxyzvb ] Loading module
+info: [ 2019-12-23 15:23:35 ] [ cpdahiezv ] server running on http://127.0.0.1:7000
+debug: [ 2019-12-23 15:23:35 ] [ rueg ] Loading API endpoint users
+debug: [ 2019-12-23 15:23:35 ] [ ahsspzhznw ] Loading API endpoint payments
+debug: [ 2019-12-23 16:16:43 ] [ ialfck ] Loading module
+debug: [ 2019-12-23 16:16:43 ] [ rvrsayqyro ] Loading module
+error: [ 2019-12-23 16:16:43 ] [ hoholyydj ] domain master error:  Error: listen EADDRINUSE :::7000
+    at Server.setupListenHandle [as _listen2] (net.js:1360:14)
+    at listenInCluster (net.js:1401:12)
+    at Server.listen (net.js:1485:7)
+    at async.auto.listen (/home/hotam/project/uhuru/app.js:121:34)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at Object.connect (/home/hotam/project/uhuru/db/connection.js:22:5)
+    at async.auto.db (/home/hotam/project/uhuru/app.js:45:16)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+    at taskComplete (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1601:9)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1625:17
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:969:16
+    at async.auto.network (/home/hotam/project/uhuru/app.js:72:13)
+    at runTask (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1632:13)
+    at /home/hotam/project/uhuru/node_modules/async/dist/async.js:1572:13
+    at processQueue (/home/hotam/project/uhuru/node_modules/async/dist/async.js:1582:13)
+debug: [ 2019-12-23 16:16:43 ] [ nnlczdr ] Loading API endpoint users
+debug: [ 2019-12-23 16:16:43 ] [ pvayeawlwh ] Loading API endpoint payments

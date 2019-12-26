@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 15
+    },
+    "auditLog": "/home/hotam/hotam/projects/mean/walnut/server/logs/dev/.1f5928a23a2ec4a3a2753d59c1d8f3e45ced556e-audit.json",
+    "files": [
+        {
+            "date": 1576431632717,
+            "name": "/home/hotam/hotam/projects/mean/walnut/server/logs/dev/15-12-2019.log",
+            "hash": "f26878d0026962871cdbc910c2d0c26a"
+        }
+    ]
+}
